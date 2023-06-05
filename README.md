@@ -1,6 +1,6 @@
 # Demographics-Data-Analysis-Using-Pandas
 Here I have done this task in Google Colab. To complete the task I've uploaded the dataset in Google Colab. Started to findout the answers given below-
-'''How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)'''
+How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)\n
 '''What is the average age of men?'''
 '''What is the percentage of people who have a Bachelor's degree?'''
 '''What percentage of people with advanced education (Bachelors, Masters, or Doctorate) make more than 50K?'''
