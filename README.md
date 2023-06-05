@@ -1,7 +1,7 @@
 # Demographics-Data-Analysis-Using-Pandas
 Here I have done this task in Google Colab. To complete the task I've uploaded the dataset in Google Colab. Started to findout the answers given below-
 
-''' How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
+How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 
 What is the average age of men?
 
@@ -17,4 +17,4 @@ What percentage of the people who work the minimum number of hours per week have
 
 What country has the highest percentage of people that earn >50K and what is that percentage?
 
-Identify the most popular occupation for those who earn >50K in India. '''
+Identify the most popular occupation for those who earn >50K in India.
